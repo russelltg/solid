@@ -1,3 +1,4 @@
+
 /*
     Copyright 2013 Patrick von Reth <vonreth@kde.org>
 
@@ -20,6 +21,7 @@
 #include "winbattery.h"
 #include "windevicemanager_p.h"
 
+#include <devpropdef.h>
 #include <setupapi.h>
 #include <batclass.h>
 #include <devguid.h>
